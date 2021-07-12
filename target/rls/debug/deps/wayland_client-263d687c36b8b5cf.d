@@ -1,0 +1,16 @@
+/home/jonas/Ocean-Engine/target/rls/debug/deps/wayland_client-263d687c36b8b5cf.rmeta: /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/lib.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/display.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/event_queue.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/globals.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/proxy.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/native_lib/mod.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/native_lib/display.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/native_lib/event_queue.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/native_lib/proxy.rs /home/jonas/Ocean-Engine/target/rls/debug/build/wayland-client-0cb66e8df981db5b/out/wayland_api.rs
+
+/home/jonas/Ocean-Engine/target/rls/debug/deps/wayland_client-263d687c36b8b5cf.d: /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/lib.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/display.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/event_queue.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/globals.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/proxy.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/native_lib/mod.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/native_lib/display.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/native_lib/event_queue.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/native_lib/proxy.rs /home/jonas/Ocean-Engine/target/rls/debug/build/wayland-client-0cb66e8df981db5b/out/wayland_api.rs
+
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/lib.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/display.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/event_queue.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/globals.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/proxy.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/native_lib/mod.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/native_lib/display.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/native_lib/event_queue.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.28.6/src/native_lib/proxy.rs:
+/home/jonas/Ocean-Engine/target/rls/debug/build/wayland-client-0cb66e8df981db5b/out/wayland_api.rs:
+
+# env-dep:OUT_DIR=/home/jonas/Ocean-Engine/target/rls/debug/build/wayland-client-0cb66e8df981db5b/out
